@@ -1,6 +1,6 @@
 # jsp_8 : 날짜 요일 시간
       
-      ![image](https://user-images.githubusercontent.com/37132897/158111154-4fe367cc-6051-4992-8fa6-4dd9fe0530a5.png)
+![image](https://user-images.githubusercontent.com/37132897/158111182-21283aad-aefc-4d19-aa1d-dfe3a0260ddc.png)
 
       
       // 변수
